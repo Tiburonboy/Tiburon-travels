@@ -1,0 +1,10 @@
+---
+title: "Welcome to my travel blog"
+author: ""
+date: "2024-01-1"
+categories: [news, fish]
+---
+![](thumbnail.jpg)
+
+I was previously posting my travel reports on Google’s Blogger.com, which worked fine, except sometimes the formatting was a little tricky and didn’t render the way I was expecting. This new blog is hosted on GitHub and rendered with Quarto, which so far seems to work just fine.
+
