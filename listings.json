@@ -2,10 +2,17 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/Allura-Nov-2025/index.html",
+      "/posts/Riviera-May-2025_p2/index.html",
+      "/posts/Riviera-May-2025_p1/index.html",
+      "/posts/Joy-April-2025/index.html",
+      "/posts/Tahoe-March-2025/index.html",
+      "/posts/Koningsdam-Dec-2024/index.html",
+      "/posts/Bliss-Nov-2024/index.html",
       "/posts/Regatta-Sept-2024/index.html",
       "/posts/PVR-Sep-2024/index.html",
       "/posts/Joy-Feb-2024/index.html",
-      "/posts/Regatta Sept 2023/index.html",
+      "/posts/Regatta-Sept-2023/index.html",
       "/posts/welcome/index.html"
     ]
   }
